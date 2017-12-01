@@ -1,5 +1,9 @@
 User-agent: *
 Allow: /
 
+User-agent: *
+Disallow: /per-editori/
+Disallow: /per-editori/index.html
+
 Sitemap: http://civichacking/sitemap.xml
 
