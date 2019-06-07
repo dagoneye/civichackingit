@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dagoneye
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://civichacking.it
+  * I am dagoneye (https://keybase.io/dagoneye) on keybase.
+  * I have a public key ASCy6I8RtDYMtHjDykVeiZJSWOifal-4UafOlxsqmaykMwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b2e88f11b4360cb478c3ca455e89925258e89f6a5fb851a7ce971b2a99aca4330a",
+      "host": "keybase.io",
+      "kid": "0120b2e88f11b4360cb478c3ca455e89925258e89f6a5fb851a7ce971b2a99aca4330a",
+      "uid": "8dcf758a612968459d239c7cbfd8f719",
+      "username": "dagoneye"
+    },
+    "merkle_root": {
+      "ctime": 1559926713,
+      "hash": "6ee59b6380bde84aaae0e45d121f72222ed539bfbcdfe367f108cac84e71f55796e58367087eff26e8083d7a2ff68126ef1c280550046f944a77a9e46295791b",
+      "hash_meta": "18a04cb8f372d1a19ecb8e9bac7ad2759b649a4f759beb2d0b789c1ca1b0d7b1",
+      "seqno": 5528707
+    },
+    "service": {
+      "entropy": "GLA5PhW5nOYqHbcuPi5mZzrE",
+      "hostname": "civichacking.it",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1559926728,
+  "expire_in": 504576000,
+  "prev": "e28c45c72cb8ebbc98f372c9a6e3889179145abc809728a27415e145b656c094",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsuiPEbQ2DLR4w8pFXomSUljon2pfuFGnzpcbKpmspDMKp3BheWxvYWTESpcCEsQg4oxFxyy467yY83LJpuOIkXkUWryAlyiidBXhRbZWwJTEIAnOMSYCmAVnHT1UAO6cuQk3quWM5J/xFJAzvRBJ3qYfAgHCo3NpZ8RAQTKlfbpkJ8R0JOM5rukF6p9LG47Ch72ma3w6ljbj3Iy0kghXkX38DVEZlPqZW63/kfMPaFAsf1FB+QdGJYn2CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIYJ/l6uTCAU1RuE1X1HfNZ69cocmqXQ2WzjrZnlC1bso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dagoneye
+
+==================================================================
